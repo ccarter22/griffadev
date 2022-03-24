@@ -1,9 +1,9 @@
 {
-  "title": "griffa.dev",
+  "title": "ccarter22",
   "url": "https://griffa.dev",
-  "description": "Tutorials and blog posts on web technologies.",
+  "description": "website describtion",
   "feed": {
-    "subtitle": "Tutorials and blog posts on web technologies.",
+    "subtitle": "subtitle",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://griffa.dev/"
@@ -13,10 +13,10 @@
     "url": "https://griffa.dev/feed/feed.json"
   },
   "author": {
-    "name": "George Griffiths",
-    "email": "georgegriffiths@live.com",
+    "name": "carolinecarter",
+    "email": "ccarter2@iastate.edu",
     "url": "https://griffa.dev/about",
-    "twitter": "@griffadev",
+    "twitter": "@carly_carter13",
     "image": "/images/griff.jpg",
     "github": "https://github.com/Georgegriff",
     "twitter_url": "https://twitter.com/intent/follow?screen_name=griffadev"
